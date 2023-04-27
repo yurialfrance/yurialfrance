@@ -1,7 +1,7 @@
 [![MasterHead](https://scontent.fmnl33-4.fna.fbcdn.net/v/t39.30808-6/313037641_3478373509115729_6015651311226687574_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFqc9Gb1KlTF8J8v5pFb2ACgYx6pRtgb3KBjHqlG2BvckK9dXq4j-mruBv_D60VfDCn09QsHCngD12vNjkiRrVs&_nc_ohc=AO2CbS2C52YAX9Ey5XM&_nc_oc=AQm_C4FP-U5BAzxshdZsnwlh-OrpHmpJmjMhRwQx76ZkJTzzQNtWFp8kWp_vlzGIeGs&_nc_ht=scontent.fmnl33-4.fna&oh=00_AfAdKLR7NY_pey1ZfZRy-Erleb7SKFDl0gdwGupWFrOn4A&oe=644EC61C)](https://github.com/yurialfrance)
 <h1 align="center">Hi 👋, I'm Yuri Alfrance</h1>
 <h3 align="center">Student | Volunteer | Freelance Programmer</h3>
-<img align="right" alt="Coding" width="310" src="https://cdn3.iconfinder.com/data/icons/luchesa-vol-9/128/Html-512.png" alt="">
+<img align="right" alt="Coding" width="500" src="https://dscucf.com/images/logo.png" alt="">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yurialfrance&label=Profile%20views&color=0e75b6&style=flat" alt="yurialfrance" /> </p>
 

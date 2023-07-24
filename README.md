@@ -7,7 +7,7 @@
 </p> - 🌱 I’m currently learning **ReactJs** - 📫 How to reach me **yurialfrance05@gmail.com** <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/yurcodes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yurcodes" height="30" width="40" />
+    <img align="center" src="https://pbs.twimg.com/profile_images/1683352940466061313/ROqzFNVh_400x400.jpg" alt="yurcodes" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/yuriegipto" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuriegipto" height="30" width="40" />

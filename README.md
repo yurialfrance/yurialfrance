@@ -1,6 +1,8 @@
 [![MasterHead](https://i.ibb.co/znxpjfq/Untitled-design.png)](https://github.com/yurialfrance) <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&center=true&width=444&height=55&lines=Mabuhay!+I'am+Yuri!;Volunteer;Leader;Freelance+Programmer;Web+Developer" alt="Typing SVG" /></a></h1>
-<h3 align="center">Student | Volunteer | Freelance Programmer</h3>
+<h3 align="center">Student | Leader |  Volunteer | Freelance Programmer</h3>
+<a href="https://g.dev/yurialfrance" target="blank">
 <img align="right" alt="Coding" width="500" src="https://dscucf.com/images/logo.png" alt="">
+</a>
 <br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yurialfrance&label=Profile%20views&color=0e75b6&style=flat" alt="yurialfrance" />

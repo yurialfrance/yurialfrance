@@ -64,3 +64,7 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurialfrance&langs_count=8&bg_color=45,666666,333333&title_color=fff&text_color=fff" width="400" />
+</div>
+

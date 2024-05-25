@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/S5nw2gW/github-headerz.png)](https://github.com/yurialfrance) <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&center=true&width=444&height=55&lines=Mabuhay!+I'am+Yuri!;Volunteer;Leader;Freelance+Programmer;Web+Developer" alt="Typing SVG" /></a></h1>
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQEnV_svWSyCmg/profile-displaybackgroundimage-shrink_350_1400/0/1690743089535?e=1721865600&v=beta&t=MucEG-q6aT_LPv6vnc8IZa1g6IB9b4qbcVLa8kPLilA)](https://github.com/yurialfrance) <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&center=true&width=444&height=55&lines=Mabuhay!+I'am+Yuri!;Volunteer;Leader;Freelance+Programmer;Web+Developer" alt="Typing SVG" /></a></h1>
 <h3 align="center">Student | Leader |  Volunteer | Freelance Programmer</h3>
 <a href="https://g.dev/yurialfrance" target="blank">
 <img align="right" alt="Coding" width="500" src="https://dscucf.com/images/logo.png" alt="">

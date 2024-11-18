@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQEnV_svWSyCmg/profile-displaybackgroundimage-shrink_350_1400/0/1690743089535?e=1727913600&v=beta&t=CfFrgVNd-aw1llz5s7xoWdpjlh22HCnugOfSTlFS2ms)
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQELeCXyOlXLJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730963333348?e=1737590400&v=beta&t=1K6E9rJHy2UyDFXgC-h1T1FhaZ2yra0l1pA13575NKg)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

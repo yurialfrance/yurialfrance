@@ -11,7 +11,7 @@
 <h3 align="center">IT Undergrad | Microsoft | Scholar | Freelance Programmer | Cybersecurity | Volunteer | Leader | Enthusiast</h3>
 
 <a href="https://www.facebook.com/plmmsc" target="blank">
-  <img align="right" alt="Coding" width="500" src="https://scontent.fmnl37-2.fna.fbcdn.net/v/t39.30808-6/472719654_1025422259603146_759356962045102927_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE13S0hgByk--UNqeGIETxk6vumb1IyWhfq-6ZvUjJaFxMKBAWHoMNg6-QjhPIp2s8uf8gAgTle7gd1jh-Hl9d_&_nc_ohc=6iBby7CXFQcQ7kNvgHjwyJs&_nc_zt=23&_nc_ht=scontent.fmnl37-2.fna&_nc_gid=Atp0Kj8X5BW03LC7KbFO_mT&oh=00_AYALn7y2lB0o5x4cY9_riaCRVyovRDtDZukO4EfRtES9Rg&oe=67866CEA" alt="">
+  <img align="right" alt="Coding" width="500" src="https://media.licdn.com/dms/image/v2/D5622AQEsw0o4oQBTjQ/feedshare-shrink_2048_1536/B56ZT_ZB7MHQAo-/0/1739451547100?e=1743638400&v=beta&t=qDAlCwEpKhQpVnqX_CTxJ0xAuLBpGcene1ghoA31XCM" alt="">
 </a>
 
 <br>

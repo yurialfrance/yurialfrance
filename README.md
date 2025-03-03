@@ -1,4 +1,6 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQELeCXyOlXLJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730963333348?e=1737590400&v=beta&t=1K6E9rJHy2UyDFXgC-h1T1FhaZ2yra0l1pA13575NKg)
+<p align="center">
+  <img src="https://images.datacamp.com/image/upload/v1683022074/Data_Engineer_Associate_Banner_0d3f2083fb.png" alt="MasterHead">
+</p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

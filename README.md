@@ -1,132 +1,229 @@
+<!-- HEADER SECTION WITH ANIMATED BANNER -->
 <p align="center">
-  <img src="https://images.datacamp.com/image/upload/v1683022074/Data_Engineer_Associate_Banner_0d3f2083fb.png" alt="MasterHead">
-</p>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&center=true&width=444&height=55&lines=Mabuhay!+I'am+Yuri!;Volunteer;Leader;Freelance+Programmer;Web+Developer" alt="Typing SVG" />
-  </a>
-</h1>
-
-<h3 align="center">IT Undergrad | Microsoft | Scholar | Freelance Programmer | Cybersecurity | Volunteer | Leader | Enthusiast</h3>
-
-<a href="https://www.facebook.com/plmmsc" target="blank">
-  <img align="right" alt="Coding" width="500" src="https://media.licdn.com/dms/image/v2/D5622AQEsw0o4oQBTjQ/feedshare-shrink_2048_1536/B56ZT_ZB7MHQAo-/0/1739451547100?e=1743638400&v=beta&t=qDAlCwEpKhQpVnqX_CTxJ0xAuLBpGcene1ghoA31XCM" alt="">
-</a>
-
-<br>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yurialfrance&label=Profile%20views&color=0e75b6&style=flat" alt="yurialfrance" />
-</p>
-
-- 🌟 I'm a dedicated IT student from Pamantasan ng Lungsod ng Maynila, deeply passionate about web development, cybersecurity, and AI/ML.
-- 🌐 I've actively contributed to various student organizations, leading initiatives and providing training as a resource speaker.
-- 🤝 I love collaborating on open-source projects and volunteering to help communities enhance their technological capabilities.
-- ✉️ Feel free to reach out to me at **yurialfrance05@gmail.com**.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/yurcodes" target="blank">
-    <img align="center" src="https://pbs.twimg.com/profile_images/1683352940466061313/ROqzFNVh_400x400.jpg" alt="yurcodes" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/yuriegipto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuriegipto" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/alfranxe" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfranxe" height="30" width="40" />
-  </a>
-  <a href="https://g.dev/yurialfrance" target="blank">
-    <img align="center" src="https://static-00.iconduck.com/assets.00/google-developers-icon-512x375-71caqmw3.png" alt="alfranxe" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a>
-  <a href="https://github.com/yurialfrance" target="_blank" rel="noreferrer">
-    <img src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" alt="php" width="40" height="40" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,24,30&height=180&section=header&text=Yuri%20Egipto&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurialfrance&langs_count=8&bg_color=45,666666,333333&title_color=fff&text_color=fff" width="400" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0357F7&center=true&vCenter=true&width=500&lines=IT+Professional+%7C+Web+Developer;Microsoft+Student+Leader;Cybersecurity+Enthusiast;Cloud+Technology+Advocate" alt="Typing SVG" />
 </div>
 
-## Contact
-- **Email**: yurialfrance05@gmail.com
-- **LinkedIn**: [Yuri Egipto](https://linkedin.com/in/yuriegipto)
-- **GitHub**: [yurialfrance](https://github.com/yurialfrance)
+<!-- ABOUT ME SECTION WITH VISUAL ELEMENTS -->
+<div align="center">
+  
+  <a href="https://linkedin.com/in/yuriegipto"><img src="https://img.shields.io/badge/-Yuri_Egipto-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:yurialfrance05@gmail.com"><img src="https://img.shields.io/badge/-yurialfrance05@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://g.dev/yurialfrance"><img src="https://img.shields.io/badge/-Google_Developer-4285F4?style=for-the-badge&logo=Google&logoColor=white"/></a>
+  <br>
+  <a href="https://twitter.com/yurcodes"><img src="https://img.shields.io/badge/-@yurcodes-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://github.com/yurialfrance"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=yurialfrance&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  
+</div>
 
-## Experience
-### Microsoft Student Community - PLM
-- **Vice President | Chief Operating Officer | Co-Founder** (August 2024 - Present)
-- Philippines
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### AWS Cloud Club - Haribon
-- **Cybersecurity Co-Lead** (April 2024 - Present)
-- National Capital Region, Philippines
+<!-- ABOUT ME SECTION WITH MODERN DESIGN -->
+<h2 align="center">👨‍💻 About Me</h2>
 
-### CodSoft
-- **Web Developer** (July 2024 - Present)
-- Kolkata, West Bengal, India
+<img align="right" src="https://media.licdn.com/dms/image/v2/D5622AQEsw0o4oQBTjQ/feedshare-shrink_2048_1536/B56ZT_ZB7MHQAo-/0/1739451547100?e=1743638400&v=beta&t=qDAlCwEpKhQpVnqX_CTxJ0xAuLBpGcene1ghoA31XCM" width="350" alt="coding illustration" style="border-radius:10px; box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;"/>
 
-### Google Developer Student Clubs PLM
-- **Googler - Cloud Development** (September 2023 - Present)
+<p align="left">
+IT undergraduate at Pamantasan ng Lungsod ng Maynila with a passion for creating innovative solutions. As a student leader and tech advocate, I'm dedicated to building communities that empower others through technology.
+</p>
 
-### Freelance (Self-employed)
-- **Freelance Programmer** (September 2021 - Present)
-- Tokyo, Japan
+<div align="left">
 
-### Pamantasan ng Lungsod ng Maynila
-- **Resource Speaker** (July 2024)
+- 🔭 Currently serving as **VP & COO at Microsoft Student Community - PLM**
+- 🛡️ Working as **Cybersecurity Co-Lead at AWS Cloud Club - Haribon**
+- 💻 Experienced **Web Developer & Freelance Programmer**
+- 🌱 Exploring cloud technologies and advanced cybersecurity concepts
+- 👨‍🏫 Resource speaker for technology workshops and training sessions
+- 🤝 Passionate about collaborating on innovative projects and open-source initiatives
 
-### The PLM Supreme Student Council
-- **Director for Graphic Design and Animation** (September 2022 - July 2023)
+</div>
 
-### Polytechnic University of the Philippines
-- **Resource Speaker** (March 2022 - March 2023)
-- **Vice President SHS Information and Communication Technology Student Club** (October 2021 - June 2022)
-- **ICT Club Asst. Treasurer** (September 2020 - July 2021)
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Education
-### Pamantasan ng Lungsod ng Maynila
-- Bachelor of Science in Information Technology, Information Technology (2022 - Present)
+<!-- SKILLS SECTION WITH MODERN DESIGN -->
+<h2 align="center">🛠️ Skills & Technologies</h2>
 
-### Polytechnic University of the Philippines
-- Information and Communication Technology, Information Technology (2020 - 2022)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#html5">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#css3">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#js">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#python">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#bootstrap">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="icon" width="48" height="48" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#php">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>PHP
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#html">
+        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="icon" width="48" height="48" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#css">
+        <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="icon" width="48" height="48" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="icon" width="48" height="48" />
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="#figma">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="icon" width="48" height="48" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#github">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#photoshop">
+        <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="photoshop" />
+      </a>
+      <br>Photoshop
+    </td>
+  </tr>
+</table>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- EXPERIENCE SECTION WITH MODERN DESIGN -->
+<h2 align="center">🏆 Experience & Leadership</h2>
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <h3>Leadership Roles</h3>
+      <ul>
+        <li>
+          <strong>Vice President & COO</strong><br>
+          Microsoft Student Community - PLM<br>
+          <i>Aug 2024 - Present</i>
+        </li>
+        <li>
+          <strong>Cybersecurity Co-Lead</strong><br>
+          AWS Cloud Club - Haribon<br>
+          <i>Apr 2024 - Present</i>
+        </li>
+        <li>
+          <strong>Googler - Cloud Development</strong><br> 
+          Google Developer Student Clubs PLM<br>
+          <i>Sep 2023 - Present</i>
+        </li>
+        <li>
+          <strong>Director for Graphic Design</strong><br>
+          PLM Supreme Student Council<br>
+          <i>Sep 2022 - Jul 2023</i>
+        </li>
+      </ul>
+    </td>
+    <td>
+      <h3>Professional Experience</h3>
+      <ul>
+        <li>
+          <strong>Web Developer</strong><br>
+          CodSoft<br>
+          <i>Jul 2024 - Present</i>
+        </li>
+        <li>
+          <strong>Freelance Programmer</strong><br>
+          Self-employed<br>
+          <i>Sep 2021 - Present</i>
+        </li>
+        <li>
+          <strong>Resource Speaker</strong><br>
+          Various Institutions<br>
+          <i>2022 - Present</i>
+        </li>
+        <li>
+          <strong>Vice President</strong><br>
+          PUP SHS ICT Student Club<br>
+          <i>Oct 2021 - Jun 2022</i>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- EDUCATION SECTION -->
+<h2 align="center">📚 Education</h2>
+
+<div align="center">
+  
+| Degree | Institution | Period |
+| :--- | :--- | :---: |
+| **BS Information Technology** | Pamantasan ng Lungsod ng Maynila | 2022 - Present |
+| **Information and Communication Technology** | Polytechnic University of the Philippines | 2020 - 2022 |
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GITHUB STATS SECTION WITH VISUAL GRAPHS -->
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+<a href="https://github.com/yurialfrance">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yurialfrance&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yurialfrance&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yurialfrance&theme=algolia" alt="yurialfrance" />
+</p>
+
+<!-- FOOTER SECTION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,24,30&height=100&section=footer"/>
+</p>

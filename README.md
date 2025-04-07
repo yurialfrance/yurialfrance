@@ -53,7 +53,7 @@
 
 <!-- TWO-COLUMN PROFILE SECTION -->
 <div align="center">
-  <img align="right" width="380" src="https://media.licdn.com/dms/image/v2/D5622AQEsw0o4oQBTjQ/feedshare-shrink_2048_1536/B56ZT_ZB7MHQAo-/0/1739451547100?e=1743638400&v=beta&t=qDAlCwEpKhQpVnqX_CTxJ0xAuLBpGcene1ghoA31XCM" alt="coding" style="border-radius:20px; box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;" />
+  <img align="right" width="380" src="https://media.licdn.com/dms/image/v2/D5622AQEsw0o4oQBTjQ/feedshare-shrink_2048_1536/B56ZT_ZB7MHQAo-/0/1739451547100?e=1746662400&v=beta&t=G3tHWu8lkZg1FZ3-CyqpkBu6Y8Akk3iaUNfBLa-L2HQ" alt="coding" style="border-radius:20px; box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;" />
   
   <div align="left" style="width: 50%;">
   

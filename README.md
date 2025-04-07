@@ -1,12 +1,12 @@
-<!-- HEADER BANNER WITH 3D EFFECT -->
+<!-- 🌌 CLEAN BLUR HEADER BANNER WITH TIME GRADIENT -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Yuri%20Egipto&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20Cybersecurity%20|%20Microsoft%20Student%20Leader&descAlignY=60&descAlign=50&color=0:0d1117,100:161b22" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=500&color=timeGradient&text=Yuri%20Egipto&textBg=false&fontColor=317df7&fontSize=70&animation=fadeIn&reversal=true" />
 </div>
 
 <!-- ANIMATED INTRODUCTION -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A4FC&center=true&width=600&lines=Welcome+to+my+Digital+Portfolio;Building+the+Future+with+Code;Passionate+Tech+Advocate;Cybersecurity+Enthusiast;Cloud+Technology+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A4FC&center=true&width=600&lines=Welcome+to+my+Digital+Portfolio;Building+the+Future+with+Code;Passionate+Tech+Advocate;Cybersecurity+Enthusiast;Cloud+Technology+Advocate" alt="Typing SVG" />
   </a>
 </h1>
 

@@ -1,6 +1,6 @@
 <!-- 🌌 CLEAN BLUR HEADER BANNER WITH TIME GRADIENT -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=500&color=timeGradient&text=Yuri%20Egipto&textBg=false&fontColor=317df7&fontSize=70&animation=fadeIn&reversal=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Yuri%20Alfrance%20Egipto&textBg=false&fontColor=ffff&fontSize=50&animation=twinkling&reversal=false&fontAlign=50&fontAlignY=33" />
 </div>
 
 <!-- ANIMATED INTRODUCTION -->
